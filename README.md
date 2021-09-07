@@ -5,4 +5,4 @@ Perfectionist, knowing and learning all details, analysing and optimising for th
 
 Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. Love to make new friends and learn new things every day...
 
-
+![Logos](/logos.jpg)
