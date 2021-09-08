@@ -1,4 +1,4 @@
-### Hi, I'm Ivan Tashev 👋
+### Hi, I'm Ivan Tashev 👋   ![Logos](/logos.jpg)
 
 
 ```java
@@ -41,4 +41,3 @@ public class HelloGit {
   }
 }
 ```
-![Logos](/logos.jpg)
