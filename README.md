@@ -8,7 +8,7 @@ public class HelloGit👋  {
    private String name = "Ivan Tashev";
    private short age = 40;
    private String address = "Sofia, Bulgaria";
-   private String proffesion = "Software Engineer";
+   private String profession = "Software Engineer";
   
 👨‍🎓 public String education() {
     return "Graduate with a bachelor’s degree in the IT field";
